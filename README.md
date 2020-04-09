@@ -1,4 +1,14 @@
-# OxyGEN
+# BORRELL® Respirator based on OxyGEN Project
+
+**This is a fork of the Oxygen Project to share all drawings, specs, codes, schematics and other information related to our implementation of the OxyGEN Project, including all changes and improvements introduced by our team.**
+
+You can follow BORRELL's manufacturing progress at out Twitter account: https://twitter.com/borrell
+
+We'll upload our docs as soon as possible, once reviewed.
+Stay safe.
+
+
+About the OxyGEN Project:
 
 OxyGEN is a collaborative hardware project started and led by [Protofy.xyz](https://protofy.xyz/), a Barcelona-based company that supports innovation within Corps and SME’s by developing hardware and software solutions.
 
